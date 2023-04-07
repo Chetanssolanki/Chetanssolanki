@@ -7,15 +7,10 @@ Information Technology student and aspiring Web Developer, Currently studying in
 <p align="left"> <a href="https://twitter.com/chetansinghso11" target="blank"><img src="https://img.shields.io/twitter/follow/chetansinghso11?logo=twitter&style=for-the-badge" alt="chetansinghso11" /></a> </p>
 
 - 🔭 I’m currently working on [MEDBOT](https://chetanssolanki.github.io/AI-MEDBOT/)
-
 - 🌱 I’m currently learning **Blockchain**
-
 - 👯 I’m looking to collaborate on **Decentralized DROPBOX Blockchain**
-
 - 💬 Ask me about **Java, DSA, Python, DBMS, AWS, Cloud**
-
 - 📫 How to reach me **chetanss912@gmail.com**
-
 - ⚡ Fun fact **Learn Create Share**
 
 ## 🌐 Socials:
