@@ -6,6 +6,7 @@ Information Technology student and aspiring Web Developer, Currently studying in
 
 
 <p align="left"> <a href="https://twitter.com/chetansinghso11" target="blank"><img src="https://img.shields.io/twitter/follow/chetansinghso11?logo=twitter&style=for-the-badge" alt="chetansinghso11" /></a> </p>
+<br>
 
 - 🔭 I’m currently working on [MEDBOT](https://chetanssolanki.github.io/AI-MEDBOT/)
 
@@ -38,3 +39,5 @@ Information Technology student and aspiring Web Developer, Currently studying in
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chetanssolanki&show_icons=true&locale=en" alt="chetanssolanki" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chetanssolanki&" alt="chetanssolanki" /></p>
+
+![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) <br/>
