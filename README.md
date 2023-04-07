@@ -3,10 +3,8 @@
 <h3 align="center">A passionate aspiring web developer from India</h3>
 Information Technology student and aspiring Web Developer, Currently studying information technology at Shree L.R. Tiwari College of Engineering. I wanted to be a successful Web Developer someday, I want to learn more programming languages, and technologies and I want to enhance my skills and logic.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
-
-
-<p align="left"> <a href="https://twitter.com/chetansinghso11" target="blank"><img src="https://img.shields.io/twitter/follow/chetansinghso11?logo=twitter&style=for-the-badge" alt="chetansinghso11" /></a> </p>
 <br>
+<p align="left"> <a href="https://twitter.com/chetansinghso11" target="blank"><img src="https://img.shields.io/twitter/follow/chetansinghso11?logo=twitter&style=for-the-badge" alt="chetansinghso11" /></a> </p>
 
 - 🔭 I’m currently working on [MEDBOT](https://chetanssolanki.github.io/AI-MEDBOT/)
 
