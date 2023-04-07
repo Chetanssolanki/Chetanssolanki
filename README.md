@@ -1,9 +1,12 @@
+# 💫 About Me:
 <h1 align="center">Hi 👋, I'm Chetan Singh Solanki</h1>
+<h3 align="center">A passionate aspiring web developer from Philippines</h3>
+Computer Science student and aspiring Web Developer, Currently studying computer science at Eulogio "Amang" Rodriguez Institute of Science and Technology. I wanted to be a successful Web Developer someday, I want to learn more programming languages, and technologies and I want to enhance my skills and logic.
+<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
+
+
 <h3 align="center">A passionate software developer from India</h3>
 
-<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=chetanssolanki&label=Profile%20views&color=0e75b6&style=flat" alt="chetanssolanki" /> </p> -->
-
-<!-- <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chetanssolanki" alt="chetanssolanki" /></a> </p> -->
 
 <p align="left"> <a href="https://twitter.com/chetansinghso11" target="blank"><img src="https://img.shields.io/twitter/follow/chetansinghso11?logo=twitter&style=for-the-badge" alt="chetansinghso11" /></a> </p>
 
