@@ -5,7 +5,7 @@ Cloud DevOps Engineer with 2+ years of experience designing, implementing, and m
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 <br>
 
-👨‍💻 Professional Experience:
+## 👨‍💻 Professional Experience: ##
 **Cloud DevOps Engineer** at [Vermont Information Processing](https://www.vtinfo.com/) (USA-based)  
 📍 Remote from Mumbai, India  
 ✅ Managing 50+ client accounts with 500+ servers across environments  
