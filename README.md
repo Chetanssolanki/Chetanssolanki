@@ -4,7 +4,13 @@
 Cloud DevOps Engineer with 2+ years of experience designing, implementing, and managing cloud infrastructure on AWS. Passionate about building efficient CI/CD pipelines, infrastructure as code, and cloud-native solutions. Currently focused on Kubernetes implementations and cloud optimization strategies.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 <br>
-<p align="left"> <a href="https://twitter.com/chetansinghso11" target="blank"><img src="https://img.shields.io/twitter/follow/chetansinghso11?logo=twitter&style=for-the-badge" alt="chetansinghso11" /></a> </p>
+
+👨‍💻 Professional Experience:
+**Cloud DevOps Engineer** at [Vermont Information Processing](https://www.vtinfo.com/) (USA-based)  
+📍 Remote from Mumbai, India  
+✅ Managing 50+ client accounts with 500+ servers across environments  
+✅ Overseeing Production, UAT, Development, Demo, and QA infrastructures  
+✅ Implementing cloud solutions for insurance processing systems
 
 - 🔭 Currently working on **Cloud Infrastructure Automation**
 - 🌱 Learning **Advanced Kubernetes and Cloud Security**
