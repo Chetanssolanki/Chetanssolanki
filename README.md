@@ -1,6 +1,6 @@
 # 💫 About Me:
 <h1 align="center">Hi 👋, I'm Chetan Singh Solanki</h1>
-<h3 align="center">Cloud DevOps Engineer with 2+ years of experience</h3>
+<h3 align="center">Cloud DevOps Engineer with 3+ years of experience</h3>
 Cloud DevOps Engineer with 3+ years of experience designing, implementing, and managing cloud infrastructure on AWS. Passionate about building efficient CI/CD pipelines, infrastructure as code, and cloud-native solutions. Currently focused on Kubernetes implementations and cloud optimization strategies.
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 <br>
